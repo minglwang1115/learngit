@@ -6,5 +6,5 @@
 - create a new branch
 - Creating a new branch is quick and simple.
 - fast forward mode
-- git stash
 - fix issue-101
+- git stash 02
